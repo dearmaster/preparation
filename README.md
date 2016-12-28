@@ -87,7 +87,7 @@ How does Jquery know it already get the response from servers
 
 
 
-#Details / Answers
+##Design Principles
 >**Single Responsibility Principle**  
 A responsibility is considered to be one reason to change. This principle states that if we have 2 reasons to change for a class, we have to split the functionality in two classes. Each class will handle only one responsibility and on future if we need to make one change we are going to make it in the class which handle it. When we need to make a change in a class having more responsibilities the change might affect the other functionality of the classes.
 
