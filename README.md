@@ -116,6 +116,7 @@ Design patterns
 * Prototype Pattern
 * Builder Pattern
 
+
 >**structural patterns**  
 1. Adapter Pattern
 * Bridge Pattern
