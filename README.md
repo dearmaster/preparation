@@ -63,5 +63,21 @@ Any experience in using the subclasses of Map besides HashMap
 * Law of Demeter or Least Knowlegde Principle（LoD or LKP）
 
 
+####Software Development Model
+1. Agile Software Development
+* Crystal Methods
+* Dynamic Systems Development Model (DSDM)
+* Extreme Programming (XP)
+* Feature Driven Development (FDD)
+* Joint Application Development (JAD)
+* Lean Development (LD)
+* Rapid Application Development (RAD)
+* Rational Unified Process (RUP)
+* Scrum
+* Spiral
+* Systems Development Life Cycle (SDLC)
+* Waterfall (a.k.a. Traditional)
+
+
 How does Jquery know it already get the response from servers
 ------
