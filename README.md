@@ -84,4 +84,4 @@ How does Jquery know it already get the response from servers
 
 
 #Details / Answers
->Single Responsibility Principle
+>**Single Responsibility Principle**
