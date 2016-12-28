@@ -1,6 +1,5 @@
 # Java Terminologies
 
-```
 * [List](#List)
 * [Set](#Set)
 * [Map](#Map)
@@ -10,7 +9,6 @@
 * [Any experience in using the subclasses of Map besides HashMap](#Any experience in using the subclasses of Map besides HashMap)
 * [How does Jquery know it already get the response from servers](#How does Jquery know it already get the response from servers)
 * [OOD Software Design Principles](#Software Design Principles)
-```
 
 
 List
@@ -86,4 +84,4 @@ How does Jquery know it already get the response from servers
 
 
 #Details / Answers
-Single Responsibility Principle
+>Single Responsibility Principle
