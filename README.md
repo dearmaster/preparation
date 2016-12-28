@@ -1,4 +1,4 @@
-# <center>Java</center>
+# <center>![Java]</center>
 
 * [List](#List)
 * [Set](#Set)
