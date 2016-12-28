@@ -105,3 +105,8 @@ When we write our interfaces we should take care to add only methods that should
 >**Composition/Aggregation Reuse Principle**  
 
 >**Law of Demeter or Least Knowlegde Principle**  
+
+
+Design patterns
+---------------
+>****
