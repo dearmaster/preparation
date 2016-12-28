@@ -1,4 +1,4 @@
-# <center>![Java]</center>
+# Java Terminologies
 
 * [List](#List)
 * [Set](#Set)
