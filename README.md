@@ -109,4 +109,16 @@ When we write our interfaces we should take care to add only methods that should
 
 Design patterns
 ---------------
->****
+>**creational patterns**  
+1. Factory Pattern
+* Abstract Factory Pattern
+* Singleton Pattern
+* Prototype Pattern
+* Builder Pattern
+
+>**structural patterns**  
+1. Adapter Pattern
+* Bridge Pattern
+* Composite Pattern
+
+>**behavioral patterns**
