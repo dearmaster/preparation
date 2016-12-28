@@ -61,7 +61,6 @@ Any experience in using the subclasses of Map besides HashMap
 * Composition/Aggregation Reuse Principle（CARP）
 * Law of Demeter or Least Knowlegde Principle（LoD or LKP）
 
-
 ####Software Development Model [http://www.itinfo.am/eng/software-development-methodologies/](http://www.itinfo.am/eng/software-development-methodologies/)
 1. Agile Software Development
 * Crystal Methods
@@ -76,6 +75,11 @@ Any experience in using the subclasses of Map besides HashMap
 * Spiral
 * Systems Development Life Cycle (SDLC)
 * Waterfall (a.k.a. Traditional)
+
+####OOP's 3 basic features
+1. Encapsulation
+* inheritance
+* polymorphism
 
 
 How does Jquery know it already get the response from servers
@@ -93,3 +97,11 @@ You can consider it when writing your classes to make sure that when you need to
 >**Liskov's Substituition Principle**  
 This principle is just an extension of the Open Close Principle in terms of behavior meaning that we must make sure that new derived classes are extending the base classes without changing their behavior. The new derived classes should be able to replace the base classes without any change in the code.
 
+>**Dependence Inversion Principle**  
+
+>**Interface Segregation Principle**  
+When we write our interfaces we should take care to add only methods that should be there. If we add methods that should not be there the classes implementing the interface will have to implement those methods as well. For example if we create an interface called Worker and add a method lunch break, all the workers will have to implement it. What if the worker is a robot?
+
+>**Composition/Aggregation Reuse Principle**  
+
+>**Law of Demeter or Least Knowlegde Principle**  
