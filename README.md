@@ -76,7 +76,7 @@ Any experience in using the subclasses of Map besides HashMap
 * Systems Development Life Cycle (SDLC)
 * Waterfall (a.k.a. Traditional)
 
-####OOP's 3 basic features [http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/](http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/)
+####OOP's 3 basic concepts features [http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/](http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/)
 1. Encapsulation
 * inheritance
 * polymorphism
